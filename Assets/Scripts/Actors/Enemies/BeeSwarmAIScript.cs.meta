@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c79b0a1ed98f5f4b829e94ea5d21bb2
+timeCreated: 1446434752
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - parent: {instanceID: 0}
+  - player: {fileID: 5044884, guid: 8953380711bc8bc4f9d747e1fa3b75ee, type: 2}
+  - DeathClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3 @@
+C:\Users\Albert\Documents\Schoolwork\2015Fall\CTIN484\ctin_484\20153\Workspace\TheGame\AlbertCharles\UnityProjectFolderHold\AstralApprentice\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Documents\Schoolwork\2015Fall\CTIN484\ctin_484\20153\Workspace\TheGame\AlbertCharles\UnityProjectFolderHold\AstralApprentice\obj\Debug\Assembly-CSharp.dll
+C:\Users\Albert\Documents\Schoolwork\2015Fall\CTIN484\ctin_484\20153\Workspace\TheGame\AlbertCharles\UnityProjectFolderHold\AstralApprentice\obj\Debug\Assembly-CSharp.pdb

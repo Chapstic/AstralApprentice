@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 44678bd7cc01b5347b690aacdc5b2d34
+timeCreated: 1446428426
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mPlayerController: {fileID: 11427128, guid: 8953380711bc8bc4f9d747e1fa3b75ee,
+      type: 2}
+  - mMissileClip: {instanceID: 0}
+  - mSlashClip: {instanceID: 0}
+  - mScanClip: {instanceID: 0}
+  - mJumpClip: {instanceID: 0}
+  - ScanTarget: {fileID: 5006804, guid: 7a6fb1045855b894dad3a356a823c3d1, type: 2}
+  - magicMissile: {fileID: 5093900, guid: 8b42dea165796bb44b07b6287bb5dba7, type: 2}
+  - mSlashRigidBody: {fileID: 5063826, guid: 3736c84a5b92f0a418600659cf82a850, type: 2}
+  - stand: {fileID: 21300000, guid: 187fa32f5dbac794ea0ac676bfe9f731, type: 3}
+  - cast: {fileID: 21300000, guid: 4afe9505829a60243ba8b92c28aa8544, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

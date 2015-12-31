@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3e33a69ad515de04da822d54da4003a0
+timeCreated: 1447544852
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - normalEnemy: {fileID: 21300000, guid: 614f347a1f95edf49afcca0e360af80a, type: 3}
+  - deadEnemy: {instanceID: 0}
+  - damagedEnemy: {fileID: 21300000, guid: d815de8015db562408fbd592f84548dd, type: 3}
+  - BeeSwarm: {fileID: 460180, guid: b0a5eed43221dfe4f9085a362578c469, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
